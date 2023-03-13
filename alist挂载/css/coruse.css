@@ -1,0 +1,182 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+.outer {
+  background-color: grey;
+  display: flex;
+  min-height: 100%;
+
+}
+
+.outer .left {
+  height: 100%;
+  width: 300px;
+  position: fixed;
+
+  background-color: #f0f0f0ff;
+  font-size: 20px;
+  padding: 30px 10px;
+
+}
+
+.left h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.left h1 a {
+  color: brown;
+  text-decoration: none;
+}
+
+.left ul li {
+  margin-bottom: 5px;
+}
+
+.left ul li p {
+  padding-left: 20px;
+  font-weight: 700;
+}
+
+.outer .right {
+  height: 100%;
+  margin: 30px 0 0 450px;
+}
+
+.outer .right div {
+  margin-bottom: 60px;
+}
+
+.outer .right h1 {
+
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+
+.right .display img {
+  width: 800px;
+}
+
+#alist div {
+  text-align: center;
+}
+
+#alist div img,
+#raidrive div img {
+  margin-top: 30px;
+}
+
+#alist div img:nth-child(1) {
+  width: 400px;
+}
+
+#alist div img:nth-child(3) {
+  width: 550px;
+}
+
+#alist div img:nth-child(4) {
+  width: 750px;
+}
+
+#alist div img:nth-child(5) {
+  width: 750px;
+}
+
+#alist div img:nth-child(7) {
+  width: 300px;
+}
+
+#raidrive div {
+  text-align: center;
+}
+
+#media h1,
+#media h2 {
+  text-align: left;
+}
+
+#media {
+  text-align: left;
+}
+
+#media a img {
+  width: 200px;
+  margin-bottom: 50px;
+}
+
+#media div img {
+  margin-bottom: 50px;
+}
+
+#media div img:nth-of-type(1) {
+  width: 600px;
+}
+
+#media div img:nth-of-type(2) {
+  width: 600px;
+}
+
+#media div img:nth-of-type(3) {
+  width: 600px;
+}
+
+#media div img:nth-of-type(4) {
+  width: 700px;
+}
+
+#media div img:nth-of-type(5) {
+  width: 1050px;
+}
+
+#media div img:nth-of-type(6) {
+  width: 1050px;
+}
+
+#media div img:nth-of-type(7) {
+  width: 1050px;
+}
+
+#media div img:nth-of-type(8) {
+  width: 1050px;
+}
+
+#media div img:nth-of-type(9) {
+  width: 1050px;
+}
+
+#media div img:nth-of-type(10) {
+  width: 1050px;
+}
+
+#media div img:nth-of-type(11) {
+  width: 1050px;
+}
+
+#media div img:nth-of-type(12) {
+  width: 1050px;
+}
+
+#media div img:nth-of-type(13) {
+  width: 1050px;
+}
+
+#media div img:nth-of-type(14) {
+  width: 1050px;
+}
+
+#media div img:nth-of-type(15) {
+  width: 1050px;
+}
